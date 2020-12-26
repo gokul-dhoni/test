@@ -1,0 +1,3 @@
+new way to devops
+connecting devops
+pull request to main
