@@ -2,3 +2,4 @@ new way to devops
 connecting devops
 pull request to main
 i love my mom
+to make file executable
