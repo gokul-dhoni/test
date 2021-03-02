@@ -1,7 +1,8 @@
 new way to devops
 connecting devops
 pull request to main
-i love my mom
+i love father
+
 to make file executable
 australia to defend 195
 india trail by 6 runs
@@ -11,3 +12,4 @@ how to do coding familarly
 india trail by 150 runs
 india win by 3 wickets
 what is docker
+india win by 10 wickets
